@@ -107,5 +107,5 @@ npm run dev
 
 The frontend will run using the Vite development server.
 
-Developed as a personal full-stack development project
+## Developed as a personal full-stack development project
 
