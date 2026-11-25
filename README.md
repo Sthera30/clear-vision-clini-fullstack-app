@@ -73,10 +73,6 @@ What I Learned
 
 ## 1. Clone the Repository
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-
 ```bash
 git clone https://github.com/Sthera30/clear-vision-clini-fullstack-app.git
 cd clear-vision-clini-fullstack-app
@@ -89,7 +85,9 @@ cd backend
 npm install
 ```
 
-Create a `.env` file inside the `backend` folder using the `.env.example` file as a template. Add your own environment variables and credentials.
+Create a .env file inside the backend folder using the provided .env.example temeplate.
+
+Configure the required environment variables before starting the backend.
 
 Start the backend:
 
@@ -108,4 +106,6 @@ npm run dev
 ```
 
 The frontend will run using the Vite development server.
+
+Developed as a personal full-stack development project
 
