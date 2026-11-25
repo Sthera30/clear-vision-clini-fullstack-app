@@ -64,7 +64,7 @@ If the website does not respond immediately, please wait a moment and try again.
 - Developing REST API endpoints using Express.js
 - Connecting a frontend application to a backend API
 - Working with a MySQL-compatible database
-- Implementing JWT authentication and protected backed routes
+- Implementing JWT authentication and protected backend routes
 - Securing user passwords using bcrypt hashing
 - Managing user authentication and authorization
 - Deploying a full-stack application using Vercel, Render, and TiDB Cloud
