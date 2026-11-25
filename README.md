@@ -52,7 +52,7 @@ The application also provides an administrative interface for managing doctors, 
 
 The frontend is hosted on Vercel, while the backend is hosted on Render using its free service.
 
-The backend may become inactive after a period ofinactivity. When accessing the website, please allow a little time for the backend to wake up and respond to the first request.
+The backend may become inactive after a period of inactivity. When accessing the website, please allow a little time for the backend to wake up and respond to the first request.
 
 If the website does not respond immediately, please wait a moment and try again.
 
