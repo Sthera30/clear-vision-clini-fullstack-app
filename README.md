@@ -71,5 +71,41 @@ What I Learned
 
 ### Running the Project Locally
 
-## 1. CLone the Repository
+## 1. Clone the Repository
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/Sthera30/clear-vision-clini-fullstack-app.git
+cd clear-vision-clini-fullstack-app
+```
+
+### 2️⃣ Set Up the Backend
+
+```bash
+cd backend
+npm install
+```
+
+Create a `.env` file inside the `backend` folder using the `.env.example` file as a template. Add your own environment variables and credentials.
+
+Start the backend:
+
+```bash
+npm start
+```
+
+### 3️⃣ Set Up the Frontend
+
+Open a second terminal from the project root:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The frontend will run using the Vite development server.
 
